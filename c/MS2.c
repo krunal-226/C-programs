@@ -9,6 +9,6 @@ void main()
     if(a % 2 == 0)
     printf("Given number is even number");
     else
-    printf("Given number is odd");
+    printf("Given number is odd  \n");
 
 }
